@@ -1,0 +1,266 @@
+      * {
+        margin: 0px;
+        font-family: Helvetica, "Helvetica Neue", Roboto, Noto, Arial, sans-serif;
+      }
+
+      #RootWrapperFrame1 {
+        min-height: 100vh;
+        background-color: rgb(239, 236, 225);
+        overflow: hidden;
+        position: relative;
+      }
+
+      #Union {
+        width: 258px;
+        height: 300px;
+        object-fit: cover;
+        position: absolute;
+        left: 321px;
+        top: -98px;
+      }
+
+      #Union_0001 {
+        width: 258px;
+        height: 300px;
+        object-fit: cover;
+        position: absolute;
+        left: 177px;
+        top: 411px;
+        transform: rotate(-180deg);
+        transform-origin: top left;
+      }
+
+      #HiIAmFabian {
+        color: black;
+        text-overflow: ellipsis;
+        font-size: 15px;
+        font-family: Raleway, sans-serif;
+        font-weight: 500;
+        text-align: center;
+        width: 148px;
+        min-height: 16px;
+        position: absolute;
+        left: 180px;
+        top: 85px;
+        height: 16px;
+      }
+
+      #ToGrieveDeeplyIsToHaveLovedFully {
+        color: black;
+        text-overflow: ellipsis;
+        font-size: 28px;
+        font-family: "Great Vibes", sans-serif;
+        font-weight: 400;
+        text-align: center;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        width: 230px;
+        position: absolute;
+        left: 200px;
+        top: 110px;
+      }
+
+      #SocialLife {
+        color: black;
+        text-overflow: ellipsis;
+        font-size: 12px;
+        font-family: Raleway, sans-serif;
+        font-weight: 600;
+        text-align: center;
+        width: 107px;
+        min-height: 22px;
+        position: absolute;
+        left: 275px;
+        top: 270px;
+        height: 22px;
+      }
+
+      #Rectangle4 {
+        width: 120px;
+        height: 30px;
+        background-color: rgb(147, 203, 221);
+        border-radius: 20px;
+        position: absolute;
+        left: 250px;
+        top: 218px;
+      }
+
+      #LearnMore {
+        color: white;
+        text-overflow: ellipsis;
+        font-size: 13px;
+        font-family: Raleway, sans-serif;
+        font-weight: 600;
+        text-align: center;
+        width: 158px;
+        min-height: 23px;
+        position: absolute;
+        left: 230px;
+        top: 225px;
+        height: 23px;
+      }
+
+      #IconFacebook {
+        width: 25px;
+        height: 25px;
+        object-fit: cover;
+        position: absolute;
+        left: 370px;
+        top: 262px;
+      }
+
+      #IconTwitter {
+        width: 25px;
+        height: 21px;
+        position: absolute;
+        left: 408px;
+        top: 265px;
+      }
+
+      #Vector {
+        width: 25px;
+        height: 21px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+      }
+
+      #IconDiscord {
+        width: 25px;
+        height: 28px;
+        position: absolute;
+        left: 445px;
+        top: 260px;
+      }
+
+      #Vector_0001 {
+        width: 25px;
+        height: 28px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+      }
+
+      #IconGithub {
+        width: 25px;
+        height: 24px;
+        position: absolute;
+        left: 485px;
+        top: 263px;
+      }
+
+      #Vector_0002 {
+        width: 25px;
+        height: 24px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+      }
+
+      #Ellipse2 {
+        width: 160px;
+        height: 150px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        background-color: rgb(50, 80, 107);
+        border-radius: 160px / 150px;
+        position: absolute;
+        left: 37px;
+        top: 70px;
+      }
+
+      #Rectangle5 {
+        width: 530px;
+        height: 30px;
+        background-color: rgb(40, 40, 43);
+        position: absolute;
+        left: 0px;
+        top: 0px;
+      }
+
+      #IconTelegramPlane {
+        width: 22px;
+        height: 20px;
+        position: absolute;
+        left: 500px;
+        top: 5px;
+      }
+
+      #Vector_0003 {
+        width: 22px;
+        height: 20px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+      }
+
+      #Rectangle7 {
+        width: 40px;
+        height: 20px;
+        background-color: white;
+        border-radius: 20px;
+        position: absolute;
+        left: 6px;
+        top: 7px;
+      }
+
+      #Home {
+        color: black;
+        text-overflow: ellipsis;
+        font-size: 10px;
+        font-family: Raleway, sans-serif;
+        font-weight: 600;
+        text-align: center;
+        width: 40px;
+        min-height: 15px;
+        position: absolute;
+        left: 6px;
+        top: 10px;
+        height: 15px;
+      }
+
+      #AboutMe {
+        color: white;
+        text-overflow: ellipsis;
+        font-size: 10px;
+        font-family: Raleway, sans-serif;
+        font-weight: 600;
+        text-align: center;
+        width: 80px;
+        min-height: 15px;
+        position: absolute;
+        left: 50px;
+        top: 10px;
+        height: 15px;
+      }
+
+      #ContactUs {
+        color: white;
+        text-overflow: ellipsis;
+        font-size: 10px;
+        font-family: Raleway, sans-serif;
+        font-weight: 600;
+        text-align: center;
+        width: 85px;
+        min-height: 15px;
+        position: absolute;
+        left: 116px;
+        top: 10px;
+        height: 15px;
+      }
+
+      #GoofyLaptopRemovebgPreview1 {
+        width: 145px;
+        height: 189px;
+        object-fit: cover;
+        position: absolute;
+        left: 46px;
+        top: 72px;
+        transform: scaleX(-1);
+      }
